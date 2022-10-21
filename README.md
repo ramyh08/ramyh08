@@ -3,7 +3,7 @@
 - 📖 I'm reading **Hands on machine learning with scikit-learn, Keras and Tensorflow** aka `the bible of data science` 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning, R programming, MLOps.**
 - 💞️ I’m looking to collaborate on **AI Projects, Data Engineering Projects, Business Intelligence Projects.**
-- 📫 Reach me on [**my LinkedIn profile**](https://www.linkedin.com/in/ramyhafdi)
+- 📫 Reach me on [**my LinkedIn profile**](https://www.linkedin.com/in/ramyhafdi).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
